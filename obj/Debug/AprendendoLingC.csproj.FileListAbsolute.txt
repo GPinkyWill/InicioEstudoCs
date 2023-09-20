@@ -1,0 +1,7 @@
+D:\Área de Trabalho\Curso C#\NovoTeste\AprendendoLingC\AprendendoLingC\bin\Debug\AprendendoLingC.exe.config
+D:\Área de Trabalho\Curso C#\NovoTeste\AprendendoLingC\AprendendoLingC\bin\Debug\AprendendoLingC.exe
+D:\Área de Trabalho\Curso C#\NovoTeste\AprendendoLingC\AprendendoLingC\bin\Debug\AprendendoLingC.pdb
+D:\Área de Trabalho\Curso C#\NovoTeste\AprendendoLingC\AprendendoLingC\obj\Debug\AprendendoLingC.csproj.AssemblyReference.cache
+D:\Área de Trabalho\Curso C#\NovoTeste\AprendendoLingC\AprendendoLingC\obj\Debug\AprendendoLingC.csproj.CoreCompileInputs.cache
+D:\Área de Trabalho\Curso C#\NovoTeste\AprendendoLingC\AprendendoLingC\obj\Debug\AprendendoLingC.exe
+D:\Área de Trabalho\Curso C#\NovoTeste\AprendendoLingC\AprendendoLingC\obj\Debug\AprendendoLingC.pdb
